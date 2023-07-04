@@ -4,7 +4,7 @@
 > https://portfolio-website-navy-ten.vercel.app/
 
 ### Website Preview
-![image](https://github.com/pranav-nani/Portfolio-website/assets/88759848/5f87cdf0-7802-49f6-8301-714b5519d663)
+![image](https://github.com/pranav-nani/Portfolio-website/assets/88759848/ab152846-5113-496d-bf01-84a1e07a5875)
 
 :star: Star me on GitHub — it helps!
 
